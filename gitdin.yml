@@ -1,0 +1,7 @@
+files:
+  - source: /index.html/dws/free/
+    ignore:
+      - /123124*71
+      - /41
+      - rest
+    translation: /dws/errorstop=5247229291819919292%language%/index.html
